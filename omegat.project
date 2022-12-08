@@ -21,6 +21,15 @@
         <target_tok>org.omegat.tokenizer.LuceneItalianTokenizer</target_tok>
         <sentence_seg>true</sentence_seg>
         <support_default_translations>true</support_default_translations>
-        <remove_tags>false</remove_tags>
+        <remove_tags>true</remove_tags>
+        <repositories>
+            <repository type="git" url="https://github.com/LSA-Translations-test/sources.git">
+                <mapping local="source/" repository="DE_sources/"/>
+            </repository>
+            <repository type="git" url="https://github.com/LSA-Translations-test/omegatDEtoFR.git">
+            <mapping local="/" repository="/"/>
+            </repository>
+
+        </repositories>
     </project>
 </omegat>
