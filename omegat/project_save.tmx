@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="DE"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="DE">
+        <seg>Emplois</seg>
+      </tuv>
+      <tuv lang="IT" changeid="PROSPERIO" changedate="20221208T172459Z" creationid="PROSPERIO" creationdate="20221208T172459Z">
+        <seg>Impieghi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Il existe beaucoup d'emplois différents.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="PROSPERIO" changedate="20221208T172529Z" creationid="PROSPERIO" creationdate="20221208T172529Z">
+        <seg>Esistono tanti lavori differenti</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
